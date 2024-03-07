@@ -1,0 +1,8 @@
+.showbottle {
+  border: 4px solid lightcoral;
+  border-radius: 10px;
+}
+
+.showbottle img {
+  width: 200px;
+}
