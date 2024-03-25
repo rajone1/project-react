@@ -1,9 +1,12 @@
 import "./App.css";
+import Header from "./component/Header";
+import Blog from "./component/blogs/blog";
 
 function App() {
   return (
     <>
-      <h1>Vite + React</h1>
+      <Header></Header>
+      <Blog></Blog>
     </>
   );
 }

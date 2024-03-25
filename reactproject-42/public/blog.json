@@ -1,0 +1,52 @@
+[
+  {
+    "id": "123456",
+    "cover": "https://fakecover.com/123456",
+    "title": "Exploring the Depths of Imaginary Realms",
+    "author": "Samantha Smith",
+    "author_img": "https://fakeauthorimg.com/samanthasmith",
+    "posted_date": "March 25, 2024",
+    "reading_time": "12 minutes",
+    "hashtag": ["#FantasyWorlds", "#Imagination", "#Adventure"]
+  },
+  {
+    "id": "789012",
+    "cover": "https://fakecover.com/789012",
+    "title": "Unraveling the Mystery of the Forbidden Temple",
+    "author": "Jason Johnson",
+    "author_img": "https://fakeauthorimg.com/jasonjohnson",
+    "posted_date": "March 24, 2024",
+    "reading_time": "8 minutes",
+    "hashtag": ["#Adventure", "#Mystery", "#Exploration"]
+  },
+  {
+    "id": "345678",
+    "cover": "https://fakecover.com/345678",
+    "title": "Journey Through Time: A Historical Odyssey",
+    "author": "Emily Evans",
+    "author_img": "https://fakeauthorimg.com/emilyevans",
+    "posted_date": "March 23, 2024",
+    "reading_time": "15 minutes",
+    "hashtag": ["#History", "#TimeTravel", "#Education"]
+  },
+  {
+    "id": "901234",
+    "cover": "https://fakecover.com/901234",
+    "title": "Infinite Horizons: The Quest for Meaning",
+    "author": "Michael Miller",
+    "author_img": "https://fakeauthorimg.com/michaelmiller",
+    "posted_date": "March 22, 2024",
+    "reading_time": "10 minutes",
+    "hashtag": ["#Philosophy", "#Reflection", "#LifeJourney"]
+  },
+  {
+    "id": "567890",
+    "cover": "https://fakecover.com/567890",
+    "title": "Beyond the Stars: An Astral Adventure",
+    "author": "Sarah Scott",
+    "author_img": "https://fakeauthorimg.com/sarahscott",
+    "posted_date": "March 21, 2024",
+    "reading_time": "20 minutes",
+    "hashtag": ["#SpaceExploration", "#CosmicWonders", "#ScienceFiction"]
+  }
+]
