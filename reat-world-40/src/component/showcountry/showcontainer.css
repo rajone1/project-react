@@ -1,0 +1,19 @@
+.showcontainer {
+  border: 5px solid pink;
+  margin: 15px;
+  padding: 15px;
+
+  /* max-width: 800px;
+  height: 100vh; */
+  border-radius: 10px;
+  /* overflow:; */
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+}
+
+.visitedcss {
+  background-color: antiquewhite;
+  color: black;
+}

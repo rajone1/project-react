@@ -1,0 +1,15 @@
+.countrt-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 5px;
+  max-width: 90%;
+  justify-content: center;
+  background: rgb(243, 241, 241);
+
+  /* display: flex; */
+  /* color: blue;
+  margin: 15px;
+  padding: 15px;
+  height: 100vh;
+  border: 10px solid black; */
+}
